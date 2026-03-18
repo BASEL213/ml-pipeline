@@ -23,3 +23,5 @@ This project demonstrates a complete ML pipeline with automated checks including
 The pipeline runs on:
 - Every push to any branch **except** `main`
 - Every pull request
+
+## Test
